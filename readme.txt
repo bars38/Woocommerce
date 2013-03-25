@@ -1,0 +1,1 @@
+﻿Чтобы не потерять ваш файл локализации для Woocommerce в woocommerce/languages (в версии 2.0.2 в /woocommerce/i18n/languages) во время обновления плагина, переместите его в wp-content/languages/woocommerce/.
